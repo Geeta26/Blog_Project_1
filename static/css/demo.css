@@ -1,0 +1,48 @@
+h1
+{
+    color: white;
+    text-align: center;
+    background : blue;
+
+    border: 1px solid yellow;
+    padding-bottom: 10px;
+}
+
+h2
+{
+    color: white;
+}
+
+.content
+{
+    width:80%;
+    float:left;
+    padding:0 0 0 30px;
+    color: blue;
+    height: 100%;
+}
+
+.sidebar
+{
+    width: 20%;
+    float: right;
+    padding: 10px;
+    background: green;
+    height: 100%;
+}
+
+body
+{
+    background: red;
+}
+
+#date
+{
+    color: yellow;
+    font-size: italic;
+}
+
+a
+{
+    color: #ffffb3;
+}
